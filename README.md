@@ -26,7 +26,7 @@ O projeto tem como objetivo aplicar **modelagem preditiva de séries temporais**
 ## 📂 Estrutura do Repositório
 - `notebook/` → Jupyter/Databricks notebooks com experimentos.
 - `csv/` → Tabela locais de votação.
-- `pbip/` → Power BI.
+- `zip/` → Power BI.
 - `README.md` → Este documento.  
 
 ---
@@ -37,6 +37,7 @@ Aconselhamos a utilização do databricks em sua versão gratuita.
 -Suba as tabelas extraidas do site do TSE e apontadas no estudo;
   Fote de tabelas TSE: https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao/home
 -Suba a tabela "locais de votação";
--Execute o código.
--Extraia os resultados para o Power BI
+-Execute o código;
+-Extrai a pasta zipada power_bi e descompacte;
+-Extraia os resultados da execução do código para o Power BI.
 
